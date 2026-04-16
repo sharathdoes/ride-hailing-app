@@ -1,1 +1,1 @@
-# RideShare - College Ride Sharing App
+# RideShare - Ride Sharing App
